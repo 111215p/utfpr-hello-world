@@ -10,7 +10,7 @@ testando um novo paragrafo.
 
 http:\\ww.google.com
  
- '''
+ ```c
  #include <stdio.h>
  int main()
  {
