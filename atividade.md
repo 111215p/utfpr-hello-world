@@ -1,4 +1,4 @@
-# Atividade da diciplina de introdução
+# Atividade da diciplina de introduÃ§Ã£o
 
 ## testando um subtitulo
 
@@ -7,9 +7,10 @@ testando um novo paragrafo.
 + item 1
 + item 2
 + item 3
- http:\\ww.google.com
+
+http:\\ww.google.com
  
- ...
+ '''
  #include <stdio.h>
  int main()
  {
